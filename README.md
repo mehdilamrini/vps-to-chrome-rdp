@@ -12,14 +12,14 @@ Paste this to new collab notes and execute:
 ! chmod +x code.sh
 ! ./code.sh
 ```
-This will create a new username alessioscarlet with password:scarlet,then install xfce and chrome remote desktop server
+This will create a new username mehdilamrini with password:lamrini,then install xfce and chrome remote desktop server
 
-You might want to change alessioscarlet's password using "passwd" (without quotes and sudo)
+You might want to change mehdilamrini's password using "passwd" (without quotes and sudo)
 
 You can also change root user password using "sudo passwd" (without quotes)
 
 And you now have a free VPS (lol)
-## NOTE: alessioscarlet's password is: scarlet
+## NOTE: mehdilamrini's password is: scarlet
 # Prevent from disconnecting.
 You can keep your session running by creating a new code block (Ctrl+ M B) and put: 
 ```
